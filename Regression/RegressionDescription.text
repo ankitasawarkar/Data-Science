@@ -1,0 +1,12 @@
+Regression Models Description
+
+Logistic Regression:
+1.  Bank_LogisticRegression.ipynb
+      The dataset is related to direct marketing campaigns (phone calls) of a Portuguese banking institution.
+      The classification goal is to predict whether the client will subscribe (1/0) to a term deposit (variable y).
+      
+      Dataset is taken from Kaggle with below details
+      (41188, 21)
+      ['age', 'job', 'marital', 'education', 'default', 'housing', 'loan', 'contact', 'month', 'day_of_week', 'duration', 
+      'campaign', 'pdays', 'previous', 'poutcome', 'emp_var_rate', 'cons_price_idx', 'cons_conf_idx', 'euribor3m', 'nr_employed', 'y']
+      https://www.kaggle.com/datasets/rashmiranu/banking-dataset-classification
