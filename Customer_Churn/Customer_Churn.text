@@ -1,0 +1,16 @@
+Customer_churn Dataset - 
+  The details regarding this ‘customer_churn’ dataset are present in the data dictionar.
+
+Problem Statement –
+  You are the Data Scientist at a telecom company “Neo” whose customers are churning out to its competitors. You have to analyse the data of your company 
+  and find insights and stop your customers from churning out to other telecom companies.
+  
+1.  Linear Regression:
+      Build a simple linear model where dependent variable is ‘MonthlyCharges’ and independent variable is ‘tenure’
+2.  Logistic Regression:
+    a.  Build a simple logistic regression model where dependent variable is ‘Churn’ & independent variable is ‘MonthlyCharges’
+    b.  Build a multiple logistic regression model where dependent variable is ‘Churn’ & independent variables are ‘tenure’ & ‘MonthlyCharges’
+3.  Decision Tree:
+      Build a decision tree model where dependent variable is ‘Churn’ & independent variable is ‘tenure’
+4.  Random Forest:
+      Build a Random Forest model where dependent variable is ‘Churn’ & independent variables are ‘tenure’ and ‘MonthlyCharges’
