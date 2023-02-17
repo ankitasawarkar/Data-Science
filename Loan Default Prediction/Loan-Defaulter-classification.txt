@@ -1,0 +1,21 @@
+Loan Defaulter classification python analysis
+
+For Loan Defaulter classification analysis, data get from the Kaggle site.
+Perform an  EDA (Exploratory Data Analysis) using graphs and complex queries and clean the dataset, which involves dealing with missing values and variable encoding.
+Build multiple models in a single line of code and deal with a highly imbalanced dataset.
+
+Steps followed:
++ Different plots and meaning from the business point of view
++ Cleaning the data:
+  - Missing values
+  - Duplicate data
+  - Encoding
+  - Miscellaneous
++ Building all the models in one go
++ How to deal with highly imbalance dataset
+
+Models:-
+* LinearSVC
+* LogisticRegression
+* GaussianNB
+* RandomForestClassifier
